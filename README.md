@@ -43,7 +43,7 @@ Edit this document to include your answers after each question. Make sure to lea
 --
 
 5. What is a component?
---
+--  is a reusable code that allows you to define custom elements and can be use to create functionality and stylying of a website or application.
 
 ### Git Set up
 
