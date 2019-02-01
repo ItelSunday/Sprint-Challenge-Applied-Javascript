@@ -17,7 +17,7 @@ You have three hours to complete this challenge. Plan your time accordingly.
 Commit your code regularly and meaningfully. This helps both you (in case you ever need to return to old code for any number of reasons) and your project manager.
 
 ## Description
-
+git 
 You are going to create a Lambda Newspaper. Your job is going to be to add functionality to the tabs below the 'Lambda Times' logo. These tabs will act as filters for our articles, and when clicked on, should filter out all articles except those with that tag.
 
 ![Working Sprint Challenge Gif](./Sprint-Challenge.gif 'Example of working project')
@@ -31,14 +31,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
+--
 
 2. What is an event?
+--
 
 3. What is an event listener?
+--
 
 4. Why would we convert a NodeList into an Array?
+--
 
 5. What is a component?
+--
 
 ### Git Set up
 
